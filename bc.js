@@ -23,10 +23,10 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$bc | help`,"http://twitch.tv/S-F")
+client.user.setGame(`$bc | !help`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
 
 
-client.login("NTI4MjUzNzg1OTExNTkwOTUz.Dwfmqw.CXI6xZvs-0ZalrQvtAfuUpK6Xt8");
+client.login("NTI5MzI4NjQ1MzA3NjI5NTcw.DwvYvg.aXye7MQuJU5jE8kgiqlvgeNLacc");
